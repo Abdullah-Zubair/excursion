@@ -1,0 +1,17 @@
+html {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+
+body 
+{
+    background-color: black;
+    text-align: center;
+}
+
+header h1
+{
+    font-size: 3.125rem;
+    color: white;
+    padding: 2rem 0;
+}
